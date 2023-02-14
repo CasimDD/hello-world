@@ -1,0 +1,47 @@
+body {
+  text-align: center;
+}
+.second {
+  background-color: #e7e7e7;
+  margin-left: 100px;
+  margin-right: 100px;
+  padding-bottom: 2px;
+  margin-top: none;
+}
+.third {
+  width: max-content;
+  margin: 10px;
+  margin-right: 100px;
+  margin-left: 100px;
+  justify-content: center;
+}
+.a {
+  width: 300px;
+  padding: center;
+  margin: 5px;
+  background-color: aqua;
+  float: left;
+}
+.b {
+  color: blue;
+  width: 400px;
+  padding: center;
+  float: left;
+  text-align: center;
+  background-color: darkturquoise;
+}
+.c {
+  width: 500px;
+  font-size: 12px;
+  padding: center;
+  margin: 5px;
+  float: left;
+
+  background-color: #339999;
+}
+.clear {
+  clear: both;
+}
+.footer {
+  margin-top: 20px;
+}
