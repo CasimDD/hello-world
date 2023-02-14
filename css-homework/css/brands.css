@@ -4,3 +4,14 @@ body {
   font-family: "Caveat", cursive;
   background-color: rgb(175, 181, 176);
 }
+h3 {
+  color: brown;
+}
+
+li:first-child {
+  color: blueviolet;
+  background-color: springgreen;
+}
+li:last-child {
+  background-color: hotpink;
+}
