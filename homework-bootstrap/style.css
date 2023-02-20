@@ -1,0 +1,18 @@
+body {
+  text-align: center;
+  background-color: #e9ecef;
+}
+/* .baslık {
+  color: rgb(202, 0, 114);
+} */
+.baslık {
+  display: flex;
+  /* justify-content: center; */
+  padding-top: 26px;
+  padding-bottom: 26px;
+  /* padding-left: 12px; */
+  /* padding-right: 12px; */
+}
+.baslık a {
+  padding-left: 12px;
+}
